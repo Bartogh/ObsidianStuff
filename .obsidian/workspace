@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "943176f4f84a732a",
+        "id": "5aa8afd25537ea1a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000_Inbox/Om at tage gode notater.md",
+            "file": "000_Inbox/Evergreen Notes.md",
             "mode": "source",
             "source": false
           }
@@ -78,14 +78,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_Inbox/Om at tage gode notater.md",
+                "file": "000_Inbox/Evergreen Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -95,14 +95,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000_Inbox/Om at tage gode notater.md",
+                "file": "000_Inbox/Evergreen Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0a668954542f2194",
@@ -141,17 +140,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "943176f4f84a732a",
+  "active": "5aa8afd25537ea1a",
   "lastOpenFiles": [
-    "000_Inbox/Om at tage gode notater.md",
-    "000_Inbox/Smartere - How to Take Good Notes - Notes.md",
+    "000_Inbox/Evergreen Notes.md",
     "000_Inbox/Reformed Forum - Sönke Ahrens, How to Take Smart Notes - Notes.md",
+    "000_Inbox/Om Brugen af Aliases.md",
+    "000_Inbox/Om at tage gode notater.md",
     "_Index_of_Kims Videns Base.md",
     "004_Templates/NytNotat-temp.md",
+    "000_Inbox/Smartere - How to Take Good Notes - Notes.md",
     "004_Templates/MosNote-temp.md",
     "004_Templates/NyDagsNotat-temp.md",
-    "003_Projects/Bibelen/Det Gamle Testamente/1. Mosebog/Mos-02.md",
-    "003_Projects/Bibelen/Det Gamle Testamente/1. Mosebog/_Index_of_1. Mosebog.md",
-    "003_Projects/Bibelen/Det Gamle Testamente/_Index_of_Det Gamle Testamente.md"
+    "003_Projects/Bibelen/Det Gamle Testamente/1. Mosebog/Mos-02.md"
   ]
 }
