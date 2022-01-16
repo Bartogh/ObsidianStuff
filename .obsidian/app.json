@@ -1,0 +1,11 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "000_Inbox",
+  "attachmentFolderPath": "001_Attach",
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "alphabetical"
+}

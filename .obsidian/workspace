@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "69b603505229709d",
+    "type": "split",
+    "children": [
+      {
+        "id": "943176f4f84a732a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "000_Inbox/Om at tage gode notater.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e638e835695e2ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0942e17661400b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d9ce09ecb8ff361",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb85bb1240ac0a55",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4ca35e1b758435d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355
+  },
+  "right": {
+    "id": "ecb4066610f53b09",
+    "type": "split",
+    "children": [
+      {
+        "id": "a266eca70f485ae7",
+        "type": "tabs",
+        "dimension": 32.3587710604559,
+        "children": [
+          {
+            "id": "d67bd53943d150e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000_Inbox/Om at tage gode notater.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "184b4210ac375566",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000_Inbox/Om at tage gode notater.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0a668954542f2194",
+        "type": "tabs",
+        "dimension": 32.3587710604559,
+        "children": [
+          {
+            "id": "ff192efadbb2e7b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "19e0408f3a1eee22",
+        "type": "tabs",
+        "dimension": 35.282457879088206,
+        "children": [
+          {
+            "id": "760067e9fc2552bc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "943176f4f84a732a",
+  "lastOpenFiles": [
+    "000_Inbox/Om at tage gode notater.md",
+    "000_Inbox/Smartere - How to Take Good Notes - Notes.md",
+    "000_Inbox/Reformed Forum - Sönke Ahrens, How to Take Smart Notes - Notes.md",
+    "_Index_of_Kims Videns Base.md",
+    "004_Templates/NytNotat-temp.md",
+    "004_Templates/MosNote-temp.md",
+    "004_Templates/NyDagsNotat-temp.md",
+    "003_Projects/Bibelen/Det Gamle Testamente/1. Mosebog/Mos-02.md",
+    "003_Projects/Bibelen/Det Gamle Testamente/1. Mosebog/_Index_of_1. Mosebog.md",
+    "003_Projects/Bibelen/Det Gamle Testamente/_Index_of_Det Gamle Testamente.md"
+  ]
+}

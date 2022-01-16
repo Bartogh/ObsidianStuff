@@ -1,0 +1,78 @@
+{
+  "templater-obsidian:003_Templates/NyDagsNotat-temp.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "templater-obsidian:003_Templates/NytNotat-temp.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:004_Templates/MosNote-temp.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ],
+  "templater-obsidian:004_Templates/NyDagsNotat-temp.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "templater-obsidian:004_Templates/NytNotat-temp.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "podcast-note:add-podcast-note": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "podcast-note:add-podcast-notes-from-selection": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-wikipedia:wikipedia-get-active-note-title": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "obsidian-wikipedia:wikipedia-get-search-term": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ]
+}
