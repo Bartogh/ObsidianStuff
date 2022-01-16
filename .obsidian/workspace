@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5aa8afd25537ea1a",
+        "id": "3f5bfe238dd75bbd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000_Inbox/Evergreen Notes.md",
+            "file": "000_Inbox/Virkelighedens Vampyrer.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_Inbox/Evergreen Notes.md",
+                "file": "000_Inbox/Virkelighedens Vampyrer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000_Inbox/Evergreen Notes.md",
+                "file": "000_Inbox/Virkelighedens Vampyrer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,19 +138,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "5aa8afd25537ea1a",
+  "active": "3f5bfe238dd75bbd",
   "lastOpenFiles": [
-    "000_Inbox/Evergreen Notes.md",
-    "000_Inbox/Reformed Forum - Sönke Ahrens, How to Take Smart Notes - Notes.md",
-    "000_Inbox/Om Brugen af Aliases.md",
-    "000_Inbox/Om at tage gode notater.md",
-    "_Index_of_Kims Videns Base.md",
+    "000_Inbox/Virkelighedens Vampyrer.md",
     "004_Templates/NytNotat-temp.md",
-    "000_Inbox/Smartere - How to Take Good Notes - Notes.md",
-    "004_Templates/MosNote-temp.md",
+    "000_Inbox/Notat-Temp.md",
+    "000_Inbox/Evergreen Notes.md",
     "004_Templates/NyDagsNotat-temp.md",
-    "003_Projects/Bibelen/Det Gamle Testamente/1. Mosebog/Mos-02.md"
+    "004_Templates/MosNote-temp.md",
+    "_Index_of_Kims Videns Base.md",
+    "000_Inbox/_Index_of_000_Inbox.md",
+    "000_Inbox/Om Brugen af Aliases.md",
+    "000_Inbox/Om at tage gode notater.md"
   ]
 }

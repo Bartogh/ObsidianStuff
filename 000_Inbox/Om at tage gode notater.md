@@ -1,5 +1,4 @@
 ---
-alias: [Start]
 Oprettet den 2022-01-16 12:25
 Redigeret den søndag 16. januar 2022 12:25:58
 ---
@@ -22,13 +21,12 @@ Han taler blandt andet om fænomenet [[Evergreen Notes]] som en del af hans [[st
 
 Jeg vil her forsøge at køre denne arbejdsrutine, med [[at arbejde i det åbne]] videre som en del af mit eget [[Lær God Notat Teknik projekt]]. 
 
-Hvis du, når du læser dette, bliver en smule forvirret, eller synes at et emne er for kort forklaret, så er det sandsynligvis fordi disse sider ikke er skrevet specielt til dig, men til mig! Undskyld hvis dette lyder lidt arrogant, men det er udspruget fra dette eksperiment med at [[Skriv notater for din egen skyldsom standard, glem dit publikum ]].
+Hvis du, når du læser dette, bliver en smule forvirret, eller synes at et emne er for kort forklaret, så er det sandsynligvis fordi disse sider ikke er skrevet specielt til dig, men til mig! Undskyld hvis dette lyder lidt arrogant, men det er udspruget fra dette eksperiment med at [[Skriv notater for din egen skyld som standard, glem dit publikum]].
 
 Lige for tiden er der ikke et indeks eller nogen anden form for navigations hjælp, du bliver nødt til at følge a link til et start-sted, der er dog i toppen og i bunden af teksten et link til [[HOME]] som vil tage dig til den absolutte start på sitet. Du kunne muligvis være interesseret i at læse lidt om [[§What's top of mind]].
 
 
 
 ---
-[[_Index_of_Kims Videns Base|HOME]]
-
+[[_Index_of_Kims Videns Base|HOME]] 
 

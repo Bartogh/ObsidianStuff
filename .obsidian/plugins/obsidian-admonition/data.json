@@ -1,5 +1,19 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "facts": {
+      "type": "facts",
+      "color": "0, 251, 255",
+      "icon": {
+        "name": "box",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Faktaboks",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": true
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": true,
   "version": "6.9.5",
