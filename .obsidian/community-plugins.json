@@ -3,7 +3,6 @@
   "better-fn",
   "obsidian-admonition",
   "obsidian-filename-heading-sync",
-  "calendar",
   "obsidian-mind-map",
   "nldates-obsidian",
   "note-refactor-obsidian",
@@ -19,5 +18,6 @@
   "obsidian-tidy-footnotes",
   "cm-typewriter-scroll-obsidian",
   "obsidian-wikipedia",
-  "zoottelkeeper-obsidian-plugin"
+  "zoottelkeeper-obsidian-plugin",
+  "calendar"
 ]

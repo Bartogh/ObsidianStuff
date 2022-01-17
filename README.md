@@ -1,11 +1,11 @@
 ---
-tags: [" #smartnotes #notattyper #evergreen #obsidian"]
+tags: [" #NOTES/smartnotes #NOTES/notattyper #NOTES/evergreen #PROGS/obsidian"]
 aliases: [Læs Mig, Se her]
 ---
 Oprettet den 2022-01-16 12:43
 Redigeret den søndag 16. januar 2022 19:43:10
 tags:  
-Status: #idea 
+Status: #STARTS/idea 
 Links: [[_Index_of_Kims Videns Base|HOME]]
 
 # README

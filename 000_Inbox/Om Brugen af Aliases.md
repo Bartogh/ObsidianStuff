@@ -5,7 +5,7 @@ Redigeret den søndag 16. januar 2022 15:59:39
 ---
 
 tags:  
-Status: #idea 
+Status: #STARTS/idea 
 Links: [[_Index_of_Kims Videns Base|HOME]]
 
 

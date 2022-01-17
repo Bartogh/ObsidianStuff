@@ -2,8 +2,8 @@
 Oprettet den 2022-01-16 13:24
 Redigeret den søndag 16. januar 2022 15:47:56
 ---
-tags: #smartnotes #evergreen #notattyper 
-Status: #idea
+tags: #NOTES/smartnotes #NOTES/evergreen #NOTES/notattyper 
+Status: #STARTS/idea
 Links: [[_Index_of_Kims Videns Base|HOME]]
 
 # Evergreen Notes

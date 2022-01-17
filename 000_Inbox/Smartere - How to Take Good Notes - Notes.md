@@ -1,5 +1,5 @@
 ---
-tags: [Podcast]
+tags: [MEDIA/Podcast]
 date: 2022-01-16
 ---
 # Smartere - How to Take Good Notes - Notes

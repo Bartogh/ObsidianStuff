@@ -1,5 +1,5 @@
 ---
-tags: [Podcast]
+tags: [MEDIA/Podcast]
 date: 2022-01-16
 ---
 # Reformed Forum - Sönke Ahrens, How to Take Smart Notes - Notes

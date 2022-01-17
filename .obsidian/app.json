@@ -1,6 +1,6 @@
 {
-  "legacyEditor": false,
-  "livePreview": true,
+  "legacyEditor": true,
+  "livePreview": false,
   "foldHeading": true,
   "foldIndent": true,
   "newFileLocation": "folder",

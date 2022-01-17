@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7779d15a12936e44",
+        "id": "f9e297c91f0d3071",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -66,7 +66,7 @@
       {
         "id": "a266eca70f485ae7",
         "type": "tabs",
-        "dimension": 23.10030395136778,
+        "dimension": 21.27659574468085,
         "children": [
           {
             "id": "d67bd53943d150e0",
@@ -100,7 +100,7 @@
       {
         "id": "0a668954542f2194",
         "type": "tabs",
-        "dimension": 41.64133738601824,
+        "dimension": 38.60182370820669,
         "children": [
           {
             "id": "ff192efadbb2e7b6",
@@ -116,12 +116,12 @@
         ]
       },
       {
-        "id": "19e0408f3a1eee22",
+        "id": "8c632ffb980b0d4f",
         "type": "tabs",
-        "dimension": 35.25835866261398,
+        "dimension": 40.121580547112465,
         "children": [
           {
-            "id": "760067e9fc2552bc",
+            "id": "7bf9af4f7cda90d9",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -134,17 +134,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7779d15a12936e44",
+  "active": "f9e297c91f0d3071",
   "lastOpenFiles": [
+    "002_Journals/04_Quarter/Læseplan 1 kvartal 2022.md",
+    "002_Journals/_Index_of_002_Journals.md",
+    "000_Inbox/<% tp.file.creation_date() %>.md",
+    "002_Journals/01_Day/2022-01-17.md",
+    "000_Inbox/Beef Wellington.md",
+    "README.md",
     "001_Attach/170px-Wladislaus_Dragwlya.JPG",
     "000_Inbox/Virkelighedens Vampyrer.md",
     "000_Inbox/Evergreen Notes.md",
-    "_Index_of_Kims Videns Base.md",
-    "README.md",
-    "000_Inbox/Notat om tags.md",
-    "004_Templates/NytNotat-temp.md",
-    "000_Inbox/Notat-Temp.md",
-    "004_Templates/NyDagsNotat-temp.md",
-    "004_Templates/MosNote-temp.md"
+    "_Index_of_Kims Videns Base.md"
   ]
 }

@@ -1,5 +1,5 @@
 ---
-tags: [obsidian, smartnotes, evergreen, notattyper, tags, links]
+tags: [PROGS/obsidian, NOTES/smartnotes, NOTES/evergreen, NOTES/notattyper, STARTS/tags, STARTS/links]
 aliases: [Tags]
 ---
 # Notat om tags
