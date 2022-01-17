@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f5bfe238dd75bbd",
+        "id": "7779d15a12936e44",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "000_Inbox/Virkelighedens Vampyrer.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,7 @@
       {
         "id": "a266eca70f485ae7",
         "type": "tabs",
-        "dimension": 32.3587710604559,
+        "dimension": 23.10030395136778,
         "children": [
           {
             "id": "d67bd53943d150e0",
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_Inbox/Virkelighedens Vampyrer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000_Inbox/Virkelighedens Vampyrer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +100,7 @@
       {
         "id": "0a668954542f2194",
         "type": "tabs",
-        "dimension": 32.3587710604559,
+        "dimension": 41.64133738601824,
         "children": [
           {
             "id": "ff192efadbb2e7b6",
@@ -124,7 +118,7 @@
       {
         "id": "19e0408f3a1eee22",
         "type": "tabs",
-        "dimension": 35.282457879088206,
+        "dimension": 35.25835866261398,
         "children": [
           {
             "id": "760067e9fc2552bc",
@@ -138,20 +132,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "3f5bfe238dd75bbd",
+  "active": "7779d15a12936e44",
   "lastOpenFiles": [
+    "001_Attach/170px-Wladislaus_Dragwlya.JPG",
     "000_Inbox/Virkelighedens Vampyrer.md",
+    "000_Inbox/Evergreen Notes.md",
+    "_Index_of_Kims Videns Base.md",
+    "README.md",
+    "000_Inbox/Notat om tags.md",
     "004_Templates/NytNotat-temp.md",
     "000_Inbox/Notat-Temp.md",
-    "000_Inbox/Evergreen Notes.md",
     "004_Templates/NyDagsNotat-temp.md",
-    "004_Templates/MosNote-temp.md",
-    "_Index_of_Kims Videns Base.md",
-    "000_Inbox/_Index_of_000_Inbox.md",
-    "000_Inbox/Om Brugen af Aliases.md",
-    "000_Inbox/Om at tage gode notater.md"
+    "004_Templates/MosNote-temp.md"
   ]
 }
