@@ -7,7 +7,6 @@
   "nldates-obsidian",
   "note-refactor-obsidian",
   "obsidian-git",
-  "obsidian-outliner",
   "url-into-selection",
   "periodic-notes",
   "podcast-note",
@@ -19,5 +18,6 @@
   "cm-typewriter-scroll-obsidian",
   "obsidian-wikipedia",
   "zoottelkeeper-obsidian-plugin",
-  "calendar"
+  "calendar",
+  "obsidian-footnotes"
 ]
