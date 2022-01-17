@@ -10,4 +10,6 @@ Links: [[_Index_of_Kims Videns Base|HOME]]
 
 # README
 Dette er min README fil til min GitHub repository af min Vault -> '**Kims Videns Base**'
+Nu er jeg i gang med at afprøve dette i Code + Dendron + GitLens for at se hvordan det spænder af.
+
 
